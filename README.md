@@ -72,5 +72,9 @@ More details are given at: https://architektit.pl/
 ### MODULE 7: Tracking and Monitoring Microservices with Zipkin
 1. Homework:[Link](https://github.com/APlazuk/modul7-zipkin)
    <img width="2168" height="1189" alt="Screenshot from 2025-06-17 23-34-35" src="https://github.com/user-attachments/assets/c75b2c54-d930-4608-a55a-970509423962" />
+   <img width="1435" height="1241" alt="Screenshot from 2025-06-17 23-32-59" src="https://github.com/user-attachments/assets/f536fda2-063a-40cb-a4dd-dae5039d952e" />
+   <img width="1437" height="797" alt="Screenshot from 2025-06-17 23-32-24" src="https://github.com/user-attachments/assets/b26c3653-9d60-40a5-8ffd-2d72e2b1a728" />
+   <img width="2005" height="866" alt="Screenshot from 2025-06-17 23-27-27" src="https://github.com/user-attachments/assets/e88d59e0-a693-4756-8371-23cab92c74b3" />
+   <img width="1417" height="860" alt="Screenshot from 2025-06-17 23-21-14" src="https://github.com/user-attachments/assets/bf745534-8753-40f7-b1f4-072800b67cf4" />
 
 ### MODULE 8: Microservices Security with Keycloak
