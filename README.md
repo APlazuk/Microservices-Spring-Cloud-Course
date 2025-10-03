@@ -70,5 +70,5 @@ More details are given at: https://architektit.pl/
         * [Link](https://github.com/APlazuk/kafka-cpu-ram-monitor)
 ![img_1.png](img_1.png)
 ### MODULE 7: Tracking and Monitoring Microservices with Zipkin
-[Link](https://github.com/APlazuk/modul7-zipkin)
+1. Homework:[Link](https://github.com/APlazuk/modul7-zipkin)
 ### MODULE 8: Microservices Security with Keycloak
